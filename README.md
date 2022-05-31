@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- I'm currently working as a Senior Software Developer at CHECK24, with a focus on PHP, but also JS
+- In my spare time I am currently learning iOS development
+- I am the creator of [Segeltrimm App](https://www.segeltrimm-app.de), a small iOS app and my hobby project
+- When I'm not programming, I'm sailing on the Baltic Sea with my wife and our little daughter
+- I am looking for a 100% remote job that will allow me to work from my boat in the future
+
+
+
 <!--
 **arkuuu/arkuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
