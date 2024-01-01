@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- I work as a Senior Software Developer at CHECK24, with a focus on PHP, but also JS
-- In my spare time I currently learn iOS development
+- I work as a Senior Software Developer at CHECK24 with PHP, Symfony, React
+- In my spare time I currently learn Swift, SwiftUI and C++
 - I am the creator of [Segeltrimm App](https://www.segeltrimm-app.de), a small iOS app and my hobby project
 - When I'm not programming, I set sails on the Baltic Sea with my wife and our two little daughters
-- I'm looking for a 100% remote job that allows me to work at my boat office (at least sometimes)
+- I am looking for a job where I can develop software used for ships or boats
 
 
 
