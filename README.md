@@ -4,9 +4,6 @@
 - In my spare time I currently learn Swift, SwiftUI and C++
 - I am the creator of [Segeltrimm App](https://www.segeltrimm-app.de), a small iOS app and my hobby project
 - When I'm not programming, I set sails on the Baltic Sea with my wife and our two little daughters
-- I am looking for a job where I can develop software used for ships or boats
-
-
 
 <!--
 **arkuuu/arkuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
