@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- I work as a Senior Software Developer at CHECK24 with PHP, Symfony, React
-- In my spare time I currently learn Swift, SwiftUI and C++
+- I work as a Software Engineer at [Pirate Ship](https://www.pirateship.com) doing backend web development
+- Previously, I worked at [CHECK24](https://www.check24.de/reiseversicherung/) (4 years) and [rexx systems](https://www.rexx-systems.com/en/) (5 years)
+- My spare time is currently spent learning Swift and SwiftUI
 - I am the creator of [Segeltrimm App](https://www.segeltrimm-app.de), a small iOS app and my hobby project
 - When I'm not programming, I set sails on the Baltic Sea with my wife and our two little daughters
 
